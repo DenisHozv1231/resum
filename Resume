@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/resumee.css">
+	<title>Resume</title>
+</head>
+<body>
+	<header>
+		<div class="header__top">
+			<img src="img/denys.png" class="header__top_img">
+			<p class="header__top_text_name">Денис Хозєєв</p>
+			<p class="header__top_text_job">Front-end developer</p>
+		</div>
+	</header>
+
+	<nav>
+		<div class="nav__about">
+			<p class="nav__about_element1">
+				<img src="img/telephone-of-old-design.png">
+			</p>
+
+			<p class="nav__about_phone">+380963158766</p>
+
+			<p class="nav__about_element2">
+				<img src="img/maps-and-flags.png">
+			</p>
+
+			<p class="nav__about_loc">Київ</p>
+
+			<p class="nav__about_element3">
+				<img src="img/gmail.png">
+			</p>
+
+			<p class="nav__about_mail">denishozv@gmail.com</p>
+		</div>
+
+		<div class="nav__skill">
+			<p class="nav__skill_text">Навички</p>
+			<a class="nav__skill_line"></a>
+			<p class="nav__skill_text_html">HTML5, CSS3(6 місяців)</p>
+			<p class="nav__skill_text_javascript">JavaScript, JQuery(4 місяців)</p>
+			<p class="nav__skill_text_Node">Node.js(базові знання)</p>
+			<p class="nav__skill_text_Vue">Vue.js(базові знання)</p>
+			<p class="nav__skill_text_git">Git(базові знання)</p>
+			<p class="nav__skill_text_Bootstrap">Bootstrap(базові знання)</p>
+			<p class="nav__skill_text_Photoshop">Adobe Photoshop(6 місяців)</p>
+		</div>
+
+		<div class="nav__Achievements">
+			<p class="nav__Achievements_text">Досягнення</p>
+			<a class="nav__Achievements_line"></a>
+			<p class="nav__Achievements_diamond">
+				<img src="img/diamond.png">		
+			</p>
+
+			<p class="nav__Achievements_courses">Схема курсу</p>
+			<p class="nav__Achievements_courses_about">На курсах вивчали:
+			<Br>- Базові поняття веб’у;
+			<Br>- Адаптивну верстку;
+			<Br>- Основу Photoshop (для витягу
+			<Br>  графічних елементів, розрізання
+			<Br>  макета);
+			<Br>- Синтаксис JavaScript, JQuery;
+			<Br>- Розроблювали міні-програми на JS.
+			</p>
+		</div>
+
+		<div class="nav__project">
+			<p class="nav__Achievements_diamondv2">
+				<img src="img/diamond.png">
+			</p>
+
+			<p class="nav__project_text">Проект</p>
+			<p class="nav__project_text_about">Написав проект на тему: “Біткоїн”.
+			<Br>
+			<Br>Проект поділений на 5 блоків:
+			<Br>- Головна сторінка;
+			<Br>- Опис проекта;
+			<Br>- Розрахунок криптовалюти за допомогою API;
+			<Br>- Купівля біткоїна;
+			<Br>- Особистий кабінет.
+			<Br>
+			<Br>В проекті застосовувалися:
+			<Br>- Оформлення стилями (градієнти, flex, box-shadow, анімація);
+			<Br>- Vue.Js для розрахунку;
+			<Br>- JavaScript для активації всіх елементів на веб-сторінці;
+			
+			<Br>
+			<a href="https://github.com/DmitriyKhozeev/PojectDenis.git">Ссилка на проект: https://github.com/DmitriyKhozeev/Poject-<p class="git"></p>
+		
+		</div>
+		
+		<div class="nav__infoPulse">
+			<p class="nav__infoPulse_text">Курси</p>
+			<a class="nav__infoPulse_line"></a>
+			<p class="nav__infoPulse_univer">InfoPulse-univer</p>
+			<p class="nav__infoPulse_data">Front-end developer 2018-2019</p>
+		</div>
+
+		<div calss="nav__language">
+			<p class="nav__language_text">Мови</p>
+			<p class="nav__language_line"></p>
+			<p class="nav__language_ukr">Українська</p>
+			<p class="nav__language_Native">Рідна</p>
+			<p class="nav__language_svg1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg2"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg3"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg4"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg5"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+
+			<p class="nav__language_rus">Російська</p>
+			<p class="nav__language_fluently">Вільно</p>
+			<p class="nav__language_svg1v1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg2v1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg3v1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg4v1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg5v1"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+
+
+			<p class="nav__language_eng">Англіська</p>
+			<p class="nav__language_Pre_Intermediate">Pre-Intermediate</p>
+			<p class="nav__language_svg1v2"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg2v2"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			<p class="nav__language_svg3v2"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+			
+		</div>
+
+		<div class="nav__Personal_qualities">
+			<p class="nav__Personal_qualities_text">Особисті якості</p>
+			<a class="nav__Personal_qualities_line"></a>
+
+			<p class="nav__Personal_qualities_text1">Працьовитість</p>
+			<a class="nav__Personal_qualities_line1"></a>
+			<p class="nav__Personal_qualities_svg"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+
+			<p class="nav__Personal_qualities_text2">Організованість</p>
+			<a class="nav__Personal_qualities_line2"></a>
+			<p class="nav__Personal_qualities_svg2"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+
+			<p class="nav__Personal_qualities_text3">Ініціативність</p>
+			<a class="nav__Personal_qualities_line3"></a>
+			<p class="nav__Personal_qualities_svg3"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+
+			<p class="nav__Personal_qualities_text4">Швидке засвоєння нової інформації</p>
+			<a class="nav__Personal_qualities_line4"></a>
+			<p class="nav__Personal_qualities_svg4"><svg>
+			  <rect width="15" height="16" x="12" y="0" rx="100" ry="100" color="#008cff" />
+			</svg>
+			</p>
+		</div>
+	</nav>
+
+<script src="js/resumee.js">
+  const arr = [
+    {
+        name: 'Jonny Wallker',
+        birthDate: '1995-12-17'
+    },
+    {
+        name: 'Andrew',
+        birthDate: '2001-10-29'
+    }
+]
+
+function searchByName(name, peopleArr){
+    return peopleArr.filter(person => person.name === name)
+}
+</script>
+</body>
+</html>
+
+
